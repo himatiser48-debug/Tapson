@@ -1,0 +1,6 @@
+{
+  "name": "Tapson Nfc/Qr",
+  "description": "Smart Digital Solutions - NFC & QR-enabled cards for smarter business connections. Tap. Scan. Connect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
